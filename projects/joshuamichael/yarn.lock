@@ -166,7 +166,7 @@
     universal-analytics "0.4.20"
     uuid "8.1.0"
 
-"@angular/common@~10.0.0-rc.6":
+"@angular/common@^10.0.0-rc.6":
   version "10.0.0-rc.6"
   resolved "https://registry.yarnpkg.com/@angular/common/-/common-10.0.0-rc.6.tgz#b8c8641626680793ee451258730b6193b97f4308"
   integrity sha512-/Xu09O0H3UKEjgB23FRzPeOe3ygoSKCSeXB0ECe/h0aCBdY37pjZIlGqMkOg0MwPow/FEcEY7zzZ2/fZTW+AkA==
@@ -206,10 +206,10 @@
   dependencies:
     tslib "^2.0.0"
 
-"@angular/fire@^6.0.0":
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/@angular/fire/-/fire-6.0.0.tgz#c1dbae9e78ed74af951fb7222108c444300a4d15"
-  integrity sha512-zWhaJaZPtfJKiNSb1I3WqqvopW0fN3S61w4PjPdsm5WME+9M9alP0zpRVclpbCU26LpBSLhrRrSLyn3ROlAOIw==
+"@angular/fire@^6.0.0-rc.2":
+  version "6.0.0-rc.2"
+  resolved "https://registry.yarnpkg.com/@angular/fire/-/fire-6.0.0-rc.2.tgz#911b1a84a214dba9e3ec63723b1dbd72788fcc99"
+  integrity sha512-Yli0hNDsvHIrVxx3jKRWtjBkX2CHpPGovaEC8cW8xEZ99clb+QTJFHdPLgJo+bqdaPnAb7Fn3trm7FIdIM1EQg==
 
 "@angular/forms@~10.0.0-rc.6":
   version "10.0.0-rc.6"
@@ -7541,6 +7541,11 @@ prepend-http@^1.0.0:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/prepend-http/-/prepend-http-1.0.4.tgz#d4f4562b0ce3696e41ac52d0e002e57a635dc6dc"
   integrity sha1-1PRWKwzjaW5BrFLQ4ALlemNdxtw=
+
+prettier@^2.0.5:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.0.5.tgz#d6d56282455243f2f92cc1716692c08aa31522d4"
+  integrity sha512-7PtVymN48hGcO4fGjybyBSIWDsLU4H4XlvOHfq91pz9kkGlonzwTfYkaIEwiRg/dAJF9YlbsduBAgtYLi+8cFg==
 
 private@^0.1.8:
   version "0.1.8"
