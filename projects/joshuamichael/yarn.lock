@@ -1072,10 +1072,10 @@
     which "^1.3.0"
     xml2js "^0.4.19"
 
-"@capacitor/core@^2.1.0":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@capacitor/core/-/core-2.2.0.tgz#60f7b2126a5a223cb1ede055a65df6ad0d719f4b"
-  integrity sha512-ClxXjOUCF0wZpznZI6f6uXK2LLzWBx5Ly/g7Hqu8R8wNdaKYoh83eMuT+m5G1gfxhcALAAJNUhHccnCW3ohftg==
+"@capacitor/core@^2.0.0-beta.1":
+  version "2.0.0-beta.1"
+  resolved "https://registry.yarnpkg.com/@capacitor/core/-/core-2.0.0-beta.1.tgz#969ca036ab6277253e72e8bc101a1d3d270be8e0"
+  integrity sha512-ThBlfzs04sxCBuTKVs4BpMdqOBbOhU6slbjgDqIBOZkTiPyCD7RCVcY+X8lEsq1prYkjSt07pc9hZLo/6e0o2w==
   dependencies:
     tslib "^1.9.0"
 
@@ -9643,7 +9643,7 @@ webpack-subresource-integrity@1.4.1:
   dependencies:
     webpack-sources "^1.3.0"
 
-webpack@4.43.0:
+webpack@4.43.0, webpack@^4.0.0:
   version "4.43.0"
   resolved "https://registry.yarnpkg.com/webpack/-/webpack-4.43.0.tgz#c48547b11d563224c561dad1172c8aa0b8a678e6"
   integrity sha512-GW1LjnPipFW2Y78OOab8NJlCflB7EFskMih2AHdvjbpKMeDJqEgSx24cXXXiPS65+WSwVyxtDsJH6jGX2czy+g==
